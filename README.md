@@ -1,4 +1,7 @@
-# Satellite LLM - Hierarchical Architecture for Efficiency / Arquitetura Hierárquica / Architecture Hiérarchique
+
+> **Vibe Code Alert**
+>
+> Vibe-coded, This Code is ephemeral, no support or updates.
 
  [English](#english) | [Português](#português) | [Français](#français)
 
@@ -7,6 +10,7 @@
 <a name="english"></a>
 ## 🇬🇧 English Version
 
+# Satellite LLM - Hierarchical Architecture for Efficiency / Arquitetura Hierárquica / Architecture Hiérarchique
 ### 📖 Concept
 This project implements a **new LLM architecture** based on the idea of **hierarchical embeddings** by syntactic function:
 - **Level 0 (Cores)**: Nouns, pronouns → **100% of dimension** (e.g., 64)
